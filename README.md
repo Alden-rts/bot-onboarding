@@ -26,7 +26,7 @@ Asisten digital berbasis Telegram yang dirancang untuk mengotomatisasi proses on
 | Komponen | Teknologi | Deskripsi |
 | :--- | :--- | :--- |
 | **Interface** | `pyTelegramBotAPI` | Antarmuka chat interaktif antara HR/Manager & Bot |
-| **LLM Engine** | Groq API (`llama-3.3-70b-versatile`) | Pemrosesan teks super cepat & efisien |
+| **LLM Engine** | Groq API (`openai/gpt-oss-120b`) | Pemrosesan teks super cepat & efisien |
 | **Data Logic** | Local RAG (`sop_restoran.txt`) | *Knowledge base* eksternal untuk menjaga akurasi SOP |
 
 ---
